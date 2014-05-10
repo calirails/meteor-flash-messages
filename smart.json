@@ -1,0 +1,10 @@
+{
+	"name": "errors",
+	"description": "A package that displays flash like error messages",
+	"homepage": "cnmic.meteor.com",
+	"author": "calvin nguyen",
+	"version": "0.1.0",
+	"git": "https://github.com/calirails/meteor-flash-messages.git",
+	"packages": {	
+	}
+}
