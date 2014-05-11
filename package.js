@@ -11,7 +11,7 @@ Package.on_use(function(api, where) {
 });
 
 Package.on_test(function(api) {
-	api.use('errors', 'client');
+	api.use('cn-flash-messages', 'client');
 	api.use(['tinytest', 'test-helpers'], 'client');
 
 	api.add_files('errors_test.js', 'client');
